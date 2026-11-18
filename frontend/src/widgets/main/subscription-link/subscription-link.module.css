@@ -1,0 +1,19 @@
+.modalContent {
+    background: #181818;
+    
+    border: 1px solid #2a2a2a;
+}
+
+.modalHeader {
+    background: transparent;
+}
+
+.modalTitle {
+    font-weight: 600;
+    color: white;
+}
+
+.actionIcon {
+    background: #181818;
+    border: 1px solid #2a2a2a;
+}

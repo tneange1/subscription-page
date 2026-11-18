@@ -1,0 +1,59 @@
+.cardItem {
+    padding: var(--mantine-spacing-sm);
+    background: #181818;
+    border: 1px solid #2a2a2a;
+    border-radius: var(--mantine-radius-md);
+    
+}
+
+.iconBlue {
+    background: #202020;
+    border: 1px solid #2a2a2a;
+}
+
+.iconCyan {
+    background: #202020;
+    border: 1px solid #2a2a2a;
+}
+
+.iconGreen {
+    background: rgba(64, 192, 87, 0.2);
+    border: 1px solid rgba(64, 192, 87, 0.3);
+}
+
+.iconTeal {
+    background: #202020;
+    border: 1px solid #2a2a2a;
+}
+
+.iconRed {
+    background: rgba(250, 82, 82, 0.2);
+    border: 1px solid rgba(250, 82, 82, 0.3);
+}
+
+.iconYellow {
+    background: rgba(250, 176, 5, 0.2);
+    border: 1px solid rgba(250, 176, 5, 0.3);
+}
+
+.iconOrange {
+    background: rgba(253, 126, 20, 0.2);
+    border: 1px solid rgba(253, 126, 20, 0.3);
+}
+
+.iconViolet {
+    background: #202020;
+    border: 1px solid #2a2a2a;
+}
+
+.label {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.value {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
